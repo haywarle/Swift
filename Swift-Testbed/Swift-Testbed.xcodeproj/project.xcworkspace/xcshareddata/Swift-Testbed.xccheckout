@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ABA59FE4-A701-4819-8438-E8D09FE48C8D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>003AD2D48775B5FF550E8787730847C27EF0C298</key>
+		<string>https://github.com/haywarle/Swift-Testbed.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Swift-Testbed/Swift-Testbed.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>003AD2D48775B5FF550E8787730847C27EF0C298</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/haywarle/Swift-Testbed.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>003AD2D48775B5FF550E8787730847C27EF0C298</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>003AD2D48775B5FF550E8787730847C27EF0C298</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Swift-Testbed</string>
+		</dict>
+	</array>
+</dict>
+</plist>
